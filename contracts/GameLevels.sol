@@ -315,7 +315,7 @@ contract GameLevels is
                 string.concat(
                     '{"name":"',
                     word,
-                    '","animation_url":"https://bafybeicdh35zz4lrcfrkovuoicfjkwmbqdw5duvqxrjy7mhvdqa6panovq.ipfs.w3s.link/?table=',stored._gameStoreName,'&token=',
+                    '","animation_url":"https://bafybeier2ldrq6gwsu4axdblw2ppwy7bgrt6zl6bgkvztvvt3uhh7qlchu.ipfs.w3s.link/?table=',stored._gameStoreName,'&token=',
                     strTokenId,
                     '","image":"',
                     image,

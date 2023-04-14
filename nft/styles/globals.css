@@ -50,12 +50,15 @@ code {
 .wonb {
   background: green;
 }
+
 .wonf {
   color: white;
 }
+
 .lostb {
   background: black;
 }
+
 .lostf {
   color: red;
 }
